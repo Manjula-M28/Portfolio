@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guvixsolutions.com/sitemap.xml
